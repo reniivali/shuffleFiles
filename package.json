@@ -1,0 +1,12 @@
+{
+  "name": "shufflefiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shuffle": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
